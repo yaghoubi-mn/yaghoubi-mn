@@ -1,13 +1,10 @@
-- 👋 Hi, I’m Mohammadamin Yaghoubi
--
-- I'm Golang backend developer
-
-- My skills: Golang, GoFiber
-
-- I also learned: Python, C++, HTML, CSS, Javascript
+- Programming Languages: Go, Python
+- Libraries and Frameworks: Django, Django Rest Framework, GoFiber
+- Others: C++, HTML, CSS, Javascript
   
 
-- 📫 How to reach me telegram:@mohammadamin424
+- 📫 email: yaghoubi.mn@gmail.com
+- telegram:@mohammadamin424
 
 <!---
 yaghoubi-mn/yaghoubi-mn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
